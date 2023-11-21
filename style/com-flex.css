@@ -1,0 +1,26 @@
+img{
+    height: 100%;
+    width: 100%;
+}
+.im{
+    height: 400px;
+}
+.row{
+   
+    height: 400px;
+    margin-bottom: 20px;
+}
+.secound-row{
+    display: flex;
+    gap: 5px;
+}
+.secound-row >div{
+    flex: 1;
+}
+.secound-row-third-container{
+    display: flex;
+    flex-direction: column;
+}
+.secound-row-third-container img{
+    height: 200px;
+}
